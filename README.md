@@ -2,6 +2,10 @@
 
 ### This repository contains a full-stack sample app demonstrating a responsive React.js frontend integrated with a lightweight backend (Node.js + Express). It implements JWT-based authentication, protected dashboard routes, CRUD for a sample entity (e.g., tasks), client + server validation, and basic security best-practices.
 
+- Frontend Deplot URL : https://assignment-note-application-frontend.onrender.com
+- Backend Deploy URL : https://assignment-note-application-backend.onrender.com
+  
+
 <img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/06f11c3e-caa4-4619-b4b5-f809aa1f047d" />
 
 # Tech Stack
