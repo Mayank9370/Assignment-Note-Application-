@@ -59,7 +59,13 @@ JWT_SECRET=super-secret-jwt-key
 # Frontend
 - cd frontend
 - npm i react-router-dom lucide-react
+- create .env file in frontend folder
+- add backend url in .env and must add /api
 - npm run dev (To Sart)
+
+  ```
+  VITE_API_URL='http://localhost:5000/api'
+  ```
 
 
 
